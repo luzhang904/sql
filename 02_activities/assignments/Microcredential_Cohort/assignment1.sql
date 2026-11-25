@@ -1,7 +1,7 @@
  /* ASSIGNMENT 1 */
 --Please write responses between the QUERY # and END QUERY blocks
-/* SECTION 2 */ssssssssxxx
-
+/* SECTION 2 */
+kkk
 
 --SELECT
 /* 1. Write a query that returns everything in the customer table. */
