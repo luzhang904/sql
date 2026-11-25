@@ -1,6 +1,6 @@
  /* ASSIGNMENT 1 */
 --Please write responses between the QUERY # and END QUERY blocks
-/* SECTION 2 */ luzs
+/* SECTION 2 */ luzstttt
 
 
 --SELECT
